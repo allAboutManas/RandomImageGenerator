@@ -1,0 +1,29 @@
+.crd{
+    width:40vw;
+
+    border:2px solid black;
+    margin: auto;
+    margin-top: 4vh;
+    background-color: black;
+    border-radius: 20px;
+
+}
+
+button{
+    width: 85px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(21, 116, 175);
+    color: white;
+}
+button:hover{
+    background-color: red;
+}
+img{
+    border-radius: 20px;
+    height: 50vh;
+}
+.para{
+    color: white;
+    text-align: center;
+}
