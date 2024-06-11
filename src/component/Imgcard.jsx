@@ -25,8 +25,8 @@ export default function Imgcard() {
     <div>
       <div className={styles.crd}>
         <img src={data} width="100%" alt="" />
-        <p className={styles.para}>Bhudeo</p>
-        <button onClick={handleClick}>Change Bholu
+        <p className={styles.para}>Dog</p>
+        <button onClick={handleClick}>Change Image
       </button>
       </div>
       
